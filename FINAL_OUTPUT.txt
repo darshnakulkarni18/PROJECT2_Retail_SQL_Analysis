@@ -1,0 +1,13 @@
+Equivalent results from the supplied practice data
+
+Total revenue: ₹3,588,300.00
+
+Revenue by category:
+category
+Technology    3191500
+Furniture      382000
+Office          14800
+
+Top product: Laptop — ₹1,365,000.00
+
+Concepts: JOIN, GROUP BY, aggregates, CTE, subquery, RANK window function.

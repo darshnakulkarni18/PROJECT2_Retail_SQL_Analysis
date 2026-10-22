@@ -1,0 +1,11 @@
+product_id,product_name,category,price
+101,Laptop,Technology,65000
+102,Monitor,Technology,18000
+103,Keyboard,Technology,2500
+104,Mouse,Technology,1200
+105,Printer,Technology,14000
+106,Desk,Furniture,9000
+107,Chair,Furniture,7000
+108,Paper,Office,400
+109,Phone,Technology,50000
+110,Tablet,Technology,30000
